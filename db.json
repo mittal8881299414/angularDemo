@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "email": "tushar.mittal@gmail.com",
+      "password": "1234",
+      "confirm": "1234",
+      "id": 1
+    },
+    {
+      "email": "tushar.mittal@gmail.com1",
+      "password": "12345",
+      "confirm": "12345",
+      "id": 2
+    },
+    {
+      "email": "sahil.sharma@gmail.com",
+      "password": "12345",
+      "confirm": "12345",
+      "id": 3
+    },
+    {
+      "email": "harshit@gmail.com",
+      "password": "12345",
+      "confirm": "12345",
+      "id": 4
+    }
+  ]
+}
